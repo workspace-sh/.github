@@ -1,0 +1,22 @@
+# Workspace
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".assets/workspace.logo.dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".assets/workspace.logo.light.svg">
+    <img alt="Fallback image description" src=".assets/workspace.logo.light.svg" width="200">
+  </picture>
+</p>
+
+> Workspace is a local-first, free, open-source app for files in open formats: Markdown, JSON Canvas, `.table` (a portable database format), and plain text. Peer-to-peer sync (via Hypercore) shares your files across your devices, team, or org. Built with React Native, it runs natively on macOS, iOS, and Android, with Web, Windows, and Linux/Unix underway
+
+
+## Projects
+
+- [`workspace`](https://github.com/workspace-sh/workspace) - Client applications
+- [`workspace-p2p-spike`](https://github.com/workspace-sh/workspace-p2p-spike) - Workspace protocol (spike)
+- [`table-file-format`](https://github.com/workspace-sh/table-file-format) - An open data matrix file format
+- [`workspace.sh`](https://github.com/workspace-sh/workspace.sh) - Website
+- [`@workspace.sh/markdown`](https://github.com/workspace-sh/markdown) - React Native Markdwon viewer and editor (TBA)
+- [`@workspace.sh/react-native-jsoncanvas`](https://github.com/workspace-sh/react-native-jsoncanvas) - React Native JSON Canvas renderer and editor (TBA)
+- [`@workspace.sh/react-native-source-editor`](https://github.com/workspace-sh/react-native-source-editor) - Client applications
