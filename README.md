@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile/.assets/workspace.logo.dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="profile/.assets/workspace.logo.light.svg">
-    <img alt="Workspace logo" src="profile/.assets/workspace.logo.light.svg" width="150">
+    <img alt="Workspace logo" src="profile/.assets/workspace.logo.light.svg" width="200">
   </picture>
 </p>
 
