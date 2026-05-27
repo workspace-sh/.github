@@ -1,5 +1,3 @@
-# Workspace
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".assets/workspace.logo.dark.svg">
@@ -8,10 +6,12 @@
   </picture>
 </p>
 
+## Workspace
+
 > Workspace is a local-first, free, open-source app for files in open formats: Markdown, JSON Canvas, `.table` (a portable database format), and plain text. Peer-to-peer sync (via Hypercore) shares your files across your devices, team, or org. Built with React Native, it runs natively on macOS, iOS, and Android, with Web, Windows, and Linux/Unix underway.
 
 
-## Projects
+### Projects
 
 - [`workspace`](https://github.com/workspace-sh/workspace) - Client applications
 - [`workspace-p2p-spike`](https://github.com/workspace-sh/workspace-p2p-spike) - Workspace protocol (spike)
