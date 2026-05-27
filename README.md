@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".assets/workspace.logo.dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset=".assets/workspace.logo.light.svg">
-    <img alt="Workspace logo" src=".assets/workspace.logo.light.svg" width="150">
+    <source media="(prefers-color-scheme: dark)" srcset=".profile/workspace.logo.dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".profile/workspace.logo.light.svg">
+    <img alt="Workspace logo" src=".profile/workspace.logo.light.svg" width="150">
   </picture>
 </p>
 
