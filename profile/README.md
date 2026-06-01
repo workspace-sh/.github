@@ -13,9 +13,9 @@
 ### Projects
 
 - [`workspace`](https://github.com/workspace-sh/workspace) - Client applications (TBA)
-- [`workspace-p2p-spike`](https://github.com/workspace-sh/workspace-p2p-spike) - Workspace's P2P (Hypercore) data layer across iOS, Android, macOS, Web and *nix)
+- [`workspace-p2p-spike`](https://github.com/workspace-sh/workspace-p2p-spike) - Workspace's P2P (Hypercore) data layer across iOS, Android, macOS, Web and *nix (Apache-2.0)
 - [`@workspace.sh/markdown`](https://github.com/workspace-sh/markdown) - React Native Markdown viewer and editor (TBA)
-- [`@workspace.sh/react-native-jsoncanvas`](https://github.com/workspace-sh/react-native-jsoncanvas) - React Native JSON Canvas renderer and editor (TBA)
-- [`@workspace.sh/react-native-source-editor`](https://github.com/workspace-sh/react-native-source-editor) - A native source code editor for React Native and Expo, with Tree-sitter syntax highlighting
+- [`@workspace.sh/react-native-jsoncanvas`](https://github.com/workspace-sh/react-native-jsoncanvas) - React Native JSON Canvas renderer and editor (MIT)
 - [`table-file-format`](https://github.com/workspace-sh/table-file-format) - An open data matrix file format
-- [`workspace.sh`](https://github.com/workspace-sh/workspace.sh) - Website
+- [`@workspace.sh/react-native-source-editor`](https://github.com/workspace-sh/react-native-source-editor) - A native source code editor for React Native and Expo, with Tree-sitter syntax highlighting
+- [`workspace.sh`](https://github.com/workspace-sh/workspace.sh) - Website, development log (and documentation)
