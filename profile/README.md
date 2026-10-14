@@ -8,14 +8,16 @@
 
 ## Workspace
 
-> Workspace is a local-first, free, open-source app for files in open formats: Markdown, JSON Canvas, `.table` (a portable database format), and plain text. Peer-to-peer sync (via Hypercore) shares your files across your devices, team, or org. Built with React Native, it runs natively on macOS, iOS, and Android, with Web, Windows, and Linux/Unix underway.
+> Workspace is a local-first app where your files stay yours — a folder of markdown documents, JSON Canvas diagrams, and `.table` databases, with rich views layered on top. Native on macOS, iOS, and Android, with Web, Windows, and Linux underway.
+>
+> The repos below cover the app itself, its data formats, and the React Native libraries powering its renderers.
 
 ### Projects
 
-- [`workspace`](https://github.com/workspace-sh/workspace) - Client applications (TBA)
-- [`workspace-p2p-spike`](https://github.com/workspace-sh/workspace-p2p-spike) - Workspace's P2P (Hypercore) data layer across iOS, Android, macOS, Web and *nix (Apache-2.0)
-- [`@workspace.sh/markdown`](https://github.com/workspace-sh/markdown) - React Native Markdown viewer and editor (TBA)
-- [`@workspace.sh/react-native-jsoncanvas`](https://github.com/workspace-sh/react-native-jsoncanvas) - React Native JSON Canvas renderer and editor (MIT)
-- [`table-file-format`](https://github.com/workspace-sh/table-file-format) - An open data matrix file format
-- [`@workspace.sh/react-native-source-editor`](https://github.com/workspace-sh/react-native-source-editor) - A native source code editor for React Native and Expo, with Tree-sitter syntax highlighting
-- [`workspace.sh`](https://github.com/workspace-sh/workspace.sh) - Website, development log (and documentation)
+- [`workspace`](https://github.com/workspace-sh/workspace) `Private` — client applications; opening up ahead of first public release
+- [`workspace-p2p-spike`](https://github.com/workspace-sh/workspace-p2p-spike) `Apache-2.0` — peer-to-peer data layer (Hypercore) across iOS, Android, macOS, and Web
+- [`@workspace.sh/markdown`](https://github.com/workspace-sh/markdown) `Private` — React Native markdown viewer and editor
+- [`@workspace.sh/react-native-jsoncanvas`](https://github.com/workspace-sh/react-native-jsoncanvas) `MIT` — React Native JSON Canvas renderer
+- [`table-file-format`](https://github.com/workspace-sh/table-file-format) `MIT` — an open file format for tabular data
+- [`@workspace.sh/react-native-source-editor`](https://github.com/workspace-sh/react-native-source-editor) `MIT` — native source editor for React Native, with Tree-sitter highlighting
+- [`workspace.sh`](https://github.com/workspace-sh/workspace.sh) — website, development log, documentation
